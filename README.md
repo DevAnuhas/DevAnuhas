@@ -8,5 +8,6 @@ Skills & Technologies:
 C# | HTML | CSS | PHP | Laravel | Bootstrap | WordPress | Networking | Debugging | Github | MVVM & MVC | Object-oriented Programming
 
 LinkedIn: https://www.linkedin.com/in/anuhas-528100290
+Instagram: https://www.instagram.com/anuhas_003
 Portfolio: https://anuhas.me
 Blog: https://lucidreviewer.com
