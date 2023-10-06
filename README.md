@@ -1,13 +1,10 @@
 👋 Hi, I’m @xxAnuhas
 
-I have a solid background in Software Development and am an active student who is an Undergraduate at the University of Gloucestershire. I also hold a Pearson BTEC HND in Computing – Software Engineering from IDM Campus Colombo.
+I am passionate about the Software Development and Web Application Development industries, and eager to learn and grow as a developer. I have created several user-friendly and responsive web applications, such as an online library, a school exam result management system, a blog platform, and a portfolio website, using WordPress, Laravel, and Bootstrap frameworks.
 
-I am enthusiastic about the Software and Web Application Development industries, ready to learn and progress, and enthusiastic about the power of technology to build a better future.
+I am also maintaining a blog where I share my insights and reviews on various topics related to digital tools and the latest technical concepts. I am ready to learn and progress, and enthusiastic about the power of technology to build a better future.
 
-Skills & Technologies:
-C# | HTML | CSS | PHP | Laravel | Bootstrap | WordPress | Networking | Debugging | Github | MVVM & MVC | Object-oriented Programming
-
-LinkedIn: https://www.linkedin.com/in/anuhas-528100290
+LinkedIn: https://www.linkedin.com/in/xxanuhas
 Instagram: https://www.instagram.com/anuhas_003
 Portfolio: https://anuhas.me
 Blog: https://lucidreviewer.com
