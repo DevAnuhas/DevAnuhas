@@ -1,4 +1,4 @@
-👋 Hi, I’m @xxAnuhas
+👋 Hi, I’m @DevAnuhas
 
 As an undergraduate student at the University of Gloucestershire, I hold a Pearson BTEC HND in Computing – Software Engineering from IDM Campus Colombo.
 
