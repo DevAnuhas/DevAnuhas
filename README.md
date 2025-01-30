@@ -9,7 +9,4 @@ I am passionate about the Software Development and Web Application Development i
 
 I am also maintaining a blog where I share my insights and reviews on various topics related to digital tools and the latest technical concepts. I am ready to learn and progress, and enthusiastic about the power of technology to build a better future.
 
-Instagram: https://www.instagram.com/anuhas_003
-Portfolio: https://anuhas.com
-Blog: https://lucidreviewer.com
 LinkedIn: https://www.linkedin.com/in/profile-anuhas
