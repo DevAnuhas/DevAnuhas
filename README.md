@@ -1,5 +1,5 @@
 # 💫 About Me:
-Detail-oriented Full-Stack Developer specializing in the MERN stack and LLM integration with OpenAI. Proficient in JavaScript, TypeScript, React, Next.js, Node.js, MongoDB, Express.js with a strong focus on<br>building scalable, user-centric applications and intuitive UI/UX design. Experienced in advanced programming concepts, problem-solving, and effective communication within collaborative teams, aiming to leverage my expertise to contribute to innovative, AI-driven projects.
+Detail-oriented Full-Stack Developer specializing in the MERN stack and LLM integration with OpenAI. Proficient in JavaScript, TypeScript, React, Next.js, Node.js, MongoDB, Express.js with a strong focus on building scalable, user-centric applications and intuitive UI/UX design. Experienced in advanced programming concepts, problem-solving, and effective communication within collaborative teams, aiming to leverage my expertise to contribute to innovative, AI-driven projects.
 
 
 ## 🌐 Socials:
